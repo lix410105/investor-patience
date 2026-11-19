@@ -1,5 +1,6 @@
 # investor-patience
-Replication code for "Can Capital Investment Tax Incentives Foster Investor Patience? Evidence from China's Accelerated Depreciation Reform" (Applied Economics Letters submission).
+
+Replication code for "Do Investment Tax Incentives Foster Investor Patience? Evidence from Mutual Fund Holdings in China" (Applied Economics Letters submission).
 
 Author: Xu Li, Central University of Finance and Economics.
 
